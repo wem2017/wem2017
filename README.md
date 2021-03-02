@@ -6,7 +6,7 @@ Learning new languages or platforms quickly with a positive attitude. Can join i
 
 - 🔭 I’m currently working on Cross-Platform Mobile/Desktop Backend NodeJS.
 - 🌱 I’m currently learning Devops, Cloud computing Machine Learning and Artificial Intelligence 
-- Ask me about: Cross-Platform | Product Design | Effective Problem Solving
+- 💬 Ask me about: Cross-Platform | Product Design | Effective Problem Solving
 - 📫 How to reach me: 12520082@gm.uit.edu.vn
 - 😄 Pronouns: Developer/He/Him
 
