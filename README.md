@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I am [Wem](https://wem2017.github.io/)! 😁
 
-<!--
-**wem2017/wem2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Wem, I'm Software developer with 3 years experience. I work with React Native, Eletron, Flutter and NodeJS
+Having ability to build the backend with common functions, full basic flow to communicate between backend and client
+Learning new languages or platforms quickly with a positive attitude. Can join in all process of product development from initialize to store release
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Cross-Platform Mobile/Desktop Backend NodeJS.
+- 🌱 I’m currently learning Devops, Cloud computing Machine Learning and Artificial Intelligence 
+- Ask me about: Cross-Platform | Product Design | Effective Problem Solving
+- 📫 How to reach me: 12520082@gm.uit.edu.vn
+- 😄 Pronouns: Developer/He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
