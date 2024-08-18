@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Wem](https://wem2017.github.io/)! A humble learner.
+### Hi there 👋, I am [Wem](https://wem2017.github.io/)!
 
 I'm Software developer.
 
